@@ -1,6 +1,8 @@
 Sanic-Jinja
 ===
 
+[![Build Status](https://travis-ci.org/htwenning/sanic-jinja.svg?branch=master)](https://travis-ci.org/htwenning/sanic-jinja)
+
 **install**:
 
 > pip install Sanic-Jinja
